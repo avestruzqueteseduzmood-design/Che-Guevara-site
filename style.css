@@ -1,0 +1,44 @@
+body{
+    background:#1F1F1F;
+    color: whitesmoke;
+}
+h1{
+    
+}
+img {
+    width: 250px;
+    height:250px;
+    border-radius: 25px;
+}
+h1{
+    font-family:Georgia;
+    font-size: 40px;
+    
+}
+p{
+    font-family: Arial;
+    font-size: 20px;
+}
+h2{
+    font-family: Serif;
+    font-size: 40px;
+}
+.TextoLateral{
+    display:flex;
+    gap: 25px;
+}
+.Texto2{
+    display:flex;
+    gap:25px;
+    width:230px;
+    border-radius: 25px;
+}
+.vermelho{
+    color:#d62828
+}
+.red{
+    color:#d62828
+}
+.miguel{
+    color:#1F1F1F
+}
